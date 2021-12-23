@@ -1,13 +1,13 @@
 # awesome-saas-marketplaces
-Curated List of SaaS marketplaces
+Curated List of 86 SaaS marketplaces
 
-Having been around the internet I've not found a very well updated source of SaaS marketplaces so I've compiled this list from several sources.
+Having been around the internet researching SaaS Marketplaces, I've not found a very well updated source of SaaS marketplaces so I've compiled this list from several sources.
 
 Please feel free to request a PR to update or add your marketplace. Follow the format below and all will be well.
 
-- [ActiveCampaign](https://www.activecampaign.com/apps/) - Marketing, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
+- [ActiveCampaign](https://www.activecampaign.com/apps/) - Email marketing tool, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
 - [Adobe](https://exchange.adobe.com/) - Product & Design, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Airtable](https://airtable.com/marketplace) - , User review: ?, App reccomendations: ?, Dev Portal: , Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
+- [Airtable](https://airtable.com/marketplace) - Productivity tool, User review: ?, App reccomendations: ?, Dev Portal: , Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
 - [Altenahealth](https://marketplace.athenahealth.com/) - Vertical, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: Yes, Total clients:  (Dec '21)
 - [Amplitude](https://amplitude.com/integrations) - Marketing, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: ?, Total clients: 1200 (Dec '21)
 - [Asana](https://asana.com/apps) - Productivity, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients: 82000 (Dec '21)
