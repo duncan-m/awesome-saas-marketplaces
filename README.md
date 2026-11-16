@@ -1,92 +1,121 @@
-# awesome-saas-marketplaces
-Curated List of 86 SaaS marketplaces
+# Awesome SaaS Marketplaces
 
-Having been around the internet researching SaaS Marketplaces, I've not found a very well updated source of SaaS marketplaces so I've compiled this list from several sources.
+A curated directory of SaaS app marketplaces, plugin stores, and integration catalogs for discovering software ecosystems and distribution opportunities.
 
-Please feel free to request a PR to update or add your marketplace. Follow the format below and all will be well.
+## Scope
 
-- [ActiveCampaign](https://www.activecampaign.com/apps/) - Email marketing tool, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Adobe](https://exchange.adobe.com/) - Product & Design, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Airtable](https://airtable.com/marketplace) - Productivity tool, User review: ?, App reccomendations: ?, Dev Portal: , Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Altenahealth](https://marketplace.athenahealth.com/) - Vertical, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: Yes, Total clients:  (Dec '21)
-- [Amplitude](https://amplitude.com/integrations) - Marketing, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: ?, Total clients: 1200 (Dec '21)
-- [Asana](https://asana.com/apps) - Productivity, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients: 82000 (Dec '21)
-- [Atlassian](https://marketplace.atlassian.com/) - Developper, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 150000 (Dec '21)
-- [Auth0](https://marketplace.auth0.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [AWS](https://aws.amazon.com/marketplace) - Developper, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [BigCommerce](https://www.bigcommerce.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Box](https://www.box.com/en-gb/partners) - Productivity, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 100000 (Dec '21)
-- [Bubble](https://bubble.io/plugins) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Cloudera](https://www.cloudera.com/solutions/gallery.html) - Developper, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: ?, Total clients: 1800 (Dec '21)
-- [Cloudfare](https://www.cloudflare.com/apps/) - Developper, User review: Yes, App reccomendations: No, Dev Portal: Yes, Co-marketing: , App certification: Yes, Rev share: Yes, Total clients: 100000 (Dec '21)
-- [Coda](https://coda.io/packs) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [ConnectWise](https://marketplace.connectwise.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Digital Ocean](https://marketplace.digitalocean.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Docusign](https://www.docusign.com/partners/solution-showcase) - Finance, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: ?, Total clients: 1000000 (Dec '21)
-- [Dropbox](https://www.dropbox.com/business/app-integrations) - Productivity, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 15800000 (Dec '21)
-- [Drip](https://www.drip.com/integrations) - Marketing, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Eventbrite](https://www.eventbrite.com/spectrum/) - Other, User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: ?, App certification: No, Rev share: ?, Total clients:  (Dec '21)
-- [Figma](https://www.figma.com/community/explore?tab=plugins&sort=installs) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Framer](https://store.framer.com/) - Product & Design, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: No, Rev share: Yes, Total clients:  (Dec '21)
-- [Freshbook](https://www.freshbooks.com/integrations) - Finance, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 305000 (Dec '21)
-- [Front](https://frontapp.com/integrations) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Gusto](https://gusto.com/product/integrations) - HR, User review: No, App reccomendations: No, Dev Portal: No, Co-marketing: No, App certification: Yes, Rev share: ?, Total clients: 40000 (Dec '21)
-- [Google Cloud](https://cloud.google.com/marketplace) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [G Suite / Google Workspace](https://gsuite.google.com/marketplace/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [GitHub](https://github.com/marketplace) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [HelpScout](https://www.helpscout.com/help-desk-integration/) - Productivity, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Heroku](https://elements.heroku.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Hootsuite](http://apps.hootsuite.com/) - Marketing, User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: , App certification: , Rev share: ?, Total clients: 200000 (Dec '21)
-- [Hubspot](https://www.hubspot.com/integrations) - Marketing, User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 128000 (Dec '21)
-- [Instapage](https://instapage.com/integrations) - Marketing, User review: No, App reccomendations: No, Dev Portal: , Co-marketing: , App certification: Yes, Rev share: ?, Total clients:  (Dec '21)
-- [Intercom](https://www.intercom.com/app-store) - Customer Support, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 100000 (Dec '21)
-- [Integromat](https://www.integromat.com/en/integrations) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Intuit](https://apps.intuit.com/) - Finance, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 100000000 (Dec '21)
-- [Invision](https://www.invisionapp.com/studio/apps) - Product & Design, User review: ?, App reccomendations: ?, Dev Portal: , Co-marketing: ?, App certification: ?, Rev share: ?, Total clients: 7000000 (Dec '21)
-- [Jotform](https://apps.jotform.com/) - Productivity, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients: 2000000 (Dec '21)
-- [LiveAgent](https://www.liveagent.com/integrations/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Mailchimp](https://connect.mailchimp.com/) - Marketing, User review: Yes, App reccomendations: No, Dev Portal: , Co-marketing: , App certification: ?, Rev share: ?, Total clients: 11000000 (Dec '21)
-- [Magento](https://marketplace.magento.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Marketo](https://launchpoint.marketo.com/) - Marketing, User review: No, App reccomendations: No, Dev Portal: , Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 5000 (Dec '21)
-- [Monday](https://monday.com/marketplace) - Productivity, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Micorosft AppSource](https://appsource.microsoft.com/en-us/home) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Microsoft Teams](https://appsource.microsoft.com/en-us/marketplace/apps?product=teams) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Mindbody](https://marketplace.mindbodyonline.com/solutions?partner=0+1&integrated=0+1) - Vertical (SMB fitness), User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients:  (Dec '21)
-- [Mixpanel](https://mixpanel.com/platform/) - Marketing, User review: No, App reccomendations: No, Dev Portal: , Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 6000 (Dec '21)
-- [mParticle](https://www.mparticle.com/integrations) - Marketing, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: -, Rev share: ?, Total clients: 150 (Dec '21)
-- [New Relic](https://newrelic.com/connect) - Developper, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 15400 (Dec '21)
-- [Okta](https://www.okta.com/resources/find-your-apps/) - Productivity, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: ?, Rev share: ?, Total clients: 7000 (Dec '21)
-- [Optimizely](https://www.optimizely.com/partners/technology-partners/) - Marketing, User review: No, App reccomendations: No, Dev Portal: , Co-marketing: Yes, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Pipedrive](https://marketplace.pipedrive.com/) - Sales, User review: Yes, App reccomendations: No, Dev Portal: Yes, Co-marketing: No, App certification: Yes, Rev share: No, Total clients: 50000 (Dec '21)
-- [Quickbooks](https://quickbooks.intuit.com/app/apps/home/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [RapidAPI](https://rapidapi.com/marketplace) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [RingCentral](https://www.ringcentral.com/apps/) - Communication, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: No, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [SalesForce Appexchange](https://appexchange.salesforce.com/) - Sales, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 150000 (Dec '21)
-- [Segment](https://segment.com/catalog) - Marketing, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: No, App certification: Yes, Rev share: ?, Total clients: 21000 (Dec '21)
-- [ServiceNow](https://store.servicenow.com/sn_appstore_store.do#!/store/home) - Other, User review: Yes, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 14000 (Dec '21)
-- [Shopify](https://apps.shopify.com/) - eCommerce, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 1750000 (Dec '21)
-- [Slack](https://slack.com/apps) - Communication, User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: No, Rev share: ?, Total clients: 12000000 (Dec '21)
-- [Stripe](https://stripe.com/works-with/type/platform) - Payment, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 3100000 (Dec '21)
-- [SurveyMonkey](https://www.surveymonkey.com/apps/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Squarespace](https://www.squarespace.com/extensions/home) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  (Dec '21)
-- [Talkdesk](https://www.talkdesk.com/appconnect/) - Communication, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients: 1800 (Dec '21)
-- [The Ultimate Software Group](https://connect.ultipro.com/marketplace) - Suite, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: Yes, Total clients:  (Dec '21)
-- [Trello](https://trello.com/power-ups) - Productivity, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: No, App certification: Yes, Rev share: ?, Total clients: 4750000 (Dec '21)
-- [Twilio](https://showcase.twilio.com/s/) - Developper, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients: ?
-- [Typeform](https://www.typeform.com/connect/) - Productivity, User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: ?, App certification: No, Rev share: ?, Total clients: ?
-- [Unbounce](https://unbounce.com/partner/) - Marketing, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: ?, Rev share: ?, Total clients: 14000 (Dec '21)
-- [Vercel](https://vercel.com/integrations) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  ?
-- [Volusion](https://www.volusion.com/marketplace/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  ?
-- [Webflow](https://university.webflow.com/integrations) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  ?
-- [Weebly](https://www.weebly.com/app-center/) - eCommerce, User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients: 30000000 (Dec '21)
-- [Wix](https://www.wix.com/app-market/main) - Other, User review: Yes, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: Yes, Total clients: 170000000 (Dec '21)
-- [Woocomerce](https://woocommerce.com/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:  ?
-- [Wordpress](https://wordpress.org/plugins/) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:   ?
-- [Workday](https://www.workday.com/en-us/partners-services/partners/software-partners.html#?q=) - HR, User review: No, App reccomendations: No, Dev Portal: No, Co-marketing: ?, App certification: Yes, Rev share: ?, Total clients: 9500 (Dec '21)
-- [Xero](https://www.xero.com/us/marketplace/s/app-functions) - Finance, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 3000000 (Dec '21)
-- [Zapier](https://zapier.com/apps/integrations/?minimal=true) - Integration Platform, User review: No, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: ?, Total clients: 1000000 (Dec '21)
-- [Zendesk](https://www.zendesk.com/apps/) - Customer Support, User review: Yes, App reccomendations: No, Dev Portal: Yes, Co-marketing: Yes, App certification: Yes, Rev share: No, Total clients: 170000 (Dec '21)
-- [Zoho](https://marketplace.zoho.com/home) - Productivity, User review: Yes, App reccomendations: Yes, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: Yes, Total clients: 13000000 (Dec '21)
-- [Zoom](https://zoom.us/docs/en-us/zoom-apps.html) - , User review: ?, App reccomendations: ?, Dev Portal: ?, Co-marketing: ?, App certification: ?, Rev share: ?, Total clients:   ?
-- [Zuora](https://www.zuora.com/products/connect/) - Payment, User review: No, App reccomendations: No, Dev Portal: Yes, Co-marketing: ?, App certification: Yes, Rev share: ?, Total clients: 100000000 (Dec '21)
+This list includes transactional marketplaces, app and plugin directories, integration catalogs, and partner solution galleries. A listing does not imply that a platform accepts public submissions or supports paid apps. WordPress and WooCommerce are included as adjacent plugin ecosystems.
+
+Customer counts and partner-program claims from the original December 2021 list have been removed because they were unsourced and are not directly comparable. Check each provider's current developer and partner documentation for submission requirements, certification, fees, revenue sharing, and regional availability.
+
+## Directory
+
+- [ActiveCampaign](https://www.activecampaign.com/apps) - Email marketing and customer experience integrations.
+- [Adobe](https://exchange.adobe.com/) - Extensions and integrations for Adobe products.
+- [Adobe Commerce](https://commercemarketplace.adobe.com/) - Extensions for Adobe Commerce and Magento Open Source.
+- [Airtable](https://airtable.com/marketplace) - Extensions for Airtable bases and workflows.
+- [Amplitude](https://amplitude.com/integrations) - Product analytics integrations and data connections.
+- [Asana](https://asana.com/apps) - Project and task management integrations.
+- [athenahealth](https://athenaconnect.athenahealth.com/marketplace/home) - Healthcare applications integrated with athenahealth.
+- [Atlassian](https://marketplace.atlassian.com/) - Apps for Jira, Confluence, and other Atlassian products.
+- [Auth0](https://marketplace.auth0.com/) - Identity and authentication integrations.
+- [AWS](https://aws.amazon.com/marketplace) - Cloud software, data products, and services.
+- [BigCommerce](https://www.bigcommerce.com/apps/) - Ecommerce apps and store integrations.
+- [Box](https://www.box.com/integrations) - Content management and collaboration integrations.
+- [Bubble](https://bubble.io/plugins) - Plugins for building Bubble applications.
+- [Cloudera](https://www.cloudera.com/partners/partners-listing.html) - Partner solutions for data and analytics workloads.
+- [Coda](https://coda.io/product/packs) - Packs connecting Coda docs to external tools.
+- [ConnectWise](https://marketplace.connectwise.com/) - Apps and integrations for managed service providers.
+- [DigitalOcean](https://marketplace.digitalocean.com/) - Deployable applications and developer tools.
+- [Docusign](https://www.docusign.com/integrations) - Electronic signature and agreement workflow integrations.
+- [Drip](https://www.drip.com/integrations) - Ecommerce marketing integrations.
+- [Dropbox](https://www.dropbox.com/app-integrations) - File sharing and collaboration integrations.
+- [Eventbrite](https://www.eventbrite.com/apps/) - Event management and marketing integrations.
+- [Figma](https://www.figma.com/community/plugins) - Community plugins for design workflows.
+- [Framer](https://www.framer.com/marketplace/) - Website templates, plugins, and components.
+- [FreshBooks](https://appstore.freshbooks.com/) - Accounting and invoicing integrations.
+- [Front](https://front.com/integrations) - Customer communication and support integrations.
+- [GitHub](https://github.com/marketplace) - Developer tools, apps, and GitHub Actions.
+- [Google Cloud](https://cloud.google.com/marketplace) - Cloud software and deployment solutions.
+- [Google Workspace](https://workspace.google.com/marketplace) - Apps for Gmail, Drive, Docs, and other Workspace products.
+- [Gusto](https://gusto.com/product/integrations) - Payroll, benefits, and HR integrations.
+- [Help Scout](https://www.helpscout.com/help-desk-integration/) - Customer support and help desk integrations.
+- [Heroku](https://elements.heroku.com/) - Add-ons, buildpacks, and deployment buttons for Heroku.
+- [Hootsuite](https://apps.hootsuite.com/) - Social media management apps and integrations.
+- [HubSpot](https://ecosystem.hubspot.com/marketplace/apps) - CRM, marketing, sales, and service integrations.
+- [Instapage](https://instapage.com/en/integrations) - Landing page and marketing integrations.
+- [Intercom](https://www.intercom.com/app-store) - Customer messaging and support apps.
+- [Jotform](https://www.jotform.com/integrations/) - Forms, payments, and workflow integrations.
+- [LiveAgent](https://www.liveagent.com/integrations/) - Help desk and customer support integrations.
+- [Mailchimp](https://mailchimp.com/integrations/) - Email marketing and ecommerce integrations.
+- [Make (formerly Integromat)](https://www.make.com/integrations) - Workflow automation apps and connectors.
+- [Marketo](https://exchange.adobe.com/apps/browse/ec?product=MRKTO) - Marketing automation partner integrations.
+- [Microsoft AppSource](https://appsource.microsoft.com/en-us/home) - Business applications for Microsoft products.
+- [Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/) - Cloud software and infrastructure solutions.
+- [Microsoft Teams](https://appsource.microsoft.com/en-us/marketplace/apps?product=teams) - Apps for collaboration in Microsoft Teams.
+- [Mindbody](https://marketplace.mindbodyonline.com/solutions?partner=0+1&integrated=0+1) - Fitness, wellness, and business management integrations.
+- [Mixpanel](https://mixpanel.com/partners/integrations) - Product analytics data integrations.
+- [monday.com](https://monday.com/marketplace) - Apps for work management workflows.
+- [mParticle](https://docs.mparticle.com/integrations/) - Customer data platform integrations.
+- [New Relic](https://newrelic.com/instant-observability) - Observability integrations and monitoring tools.
+- [Okta](https://www.okta.com/integrations/) - Identity, single sign-on, and provisioning integrations.
+- [Optimizely](https://www.optimizely.com/connectors) - Digital experience and experimentation integrations.
+- [Pipedrive](https://www.pipedrive.com/en/marketplace) - CRM and sales workflow apps.
+- [QuickBooks](https://quickbooks.intuit.com/app/apps/home/) - Accounting, payments, and business management apps.
+- [RapidAPI](https://rapidapi.com/hub) - APIs for developers to discover and integrate.
+- [RingCentral](https://www.ringcentral.com/apps/) - Business communications apps and integrations.
+- [Salesforce AgentExchange (formerly AppExchange)](https://agentexchange.salesforce.com/) - CRM apps, components, and partner solutions.
+- [Segment](https://www.twilio.com/en-us/catalog) - Customer data sources and destinations.
+- [ServiceNow](https://store.servicenow.com/sn_appstore_store.do#!/store/home) - Enterprise workflow applications and integrations.
+- [Shopify](https://apps.shopify.com/) - Ecommerce apps for Shopify stores.
+- [Slack](https://slack.com/marketplace) - Workplace communication apps and integrations.
+- [Squarespace](https://www.squarespace.com/extensions/home) - Extensions for commerce and business operations.
+- [Stripe](https://marketplace.stripe.com/) - Apps extending Stripe payments and business workflows.
+- [SurveyMonkey](https://www.surveymonkey.com/apps/) - Survey and feedback integrations.
+- [Talkdesk](https://www.talkdesk.com/contact-center-platform/appconnect/) - Contact center apps and integrations.
+- [Trello](https://trello.com/power-ups) - Power-Ups extending Trello boards.
+- [Twilio](https://www.twilio.com/en-us/partners) - Partner solutions for customer communications.
+- [Typeform](https://www.typeform.com/connect) - Form, survey, and workflow integrations.
+- [UKG](https://marketplace.ukg.com/en-US/home) - HR, payroll, and workforce management integrations.
+- [Unbounce](https://unbounce.com/product/integrations/) - Landing page and marketing integrations.
+- [Vercel](https://vercel.com/marketplace) - Infrastructure and service integrations for Vercel projects.
+- [Volusion](https://www.volusion.com/marketplace/) - Ecommerce store apps and integrations.
+- [Webflow](https://webflow.com/apps) - Apps extending Webflow sites and workflows.
+- [Weebly](https://www.weebly.com/app-center/) - Apps extending Weebly websites and stores.
+- [Wix](https://www.wix.com/app-market) - Apps for Wix websites and businesses.
+- [WooCommerce](https://woocommerce.com/products/) - Extensions for WooCommerce stores.
+- [WordPress](https://wordpress.org/plugins/) - Plugins for WordPress websites.
+- [Workday](https://marketplace.workday.com/en-US/home) - Partner applications for finance and HR workflows.
+- [Xero](https://apps.xero.com/) - Accounting and small business apps.
+- [Zapier](https://zapier.com/apps) - Workflow automation apps and integrations.
+- [Zendesk](https://www.zendesk.com/marketplace/) - Customer service apps and themes.
+- [Zoho](https://marketplace.zoho.com/home) - Extensions for Zoho business applications.
+- [Zoom](https://marketplace.zoom.us/) - Apps and integrations for Zoom products.
+- [Zuora](https://connect.zuora.com/) - Subscription billing and revenue integrations (sign-in required).
+
+## Renamed and legacy entries
+
+- **Integromat** is listed under **Make**.
+- **Magento Marketplace** is listed under **Adobe Commerce**.
+- **The Ultimate Software Group / UltiPro** is listed under **UKG**.
+- **G Suite** is listed under **Google Workspace**.
+- **Salesforce AppExchange** is listed under **Salesforce AgentExchange**.
+- **Intuit** and **QuickBooks** have been consolidated into one QuickBooks entry.
+- **Cloudflare Apps** is excluded from the directory pending confirmation of an accessible, current catalog. The [legacy Apps page](https://www.cloudflare.com/apps/) could not be verified during this review.
+- **InVision** is excluded because its [former website](https://www.invisionapp.com/) now redirects to Miro rather than the original app directory.
+
+## Contributing
+
+Open a pull request to add a marketplace, correct a link, or report a retired service.
+
+- Link to the provider's official marketplace or integration directory rather than its general homepage.
+- Keep entries in alphabetical order and use the provider's current name.
+- Add a short description explaining the ecosystem or supported use case.
+- For a rename or retirement, include an official source in the pull request.
+- Avoid customer counts, promotional claims, and commercial terms without dated primary sources.
+
+Use this format:
+
+```markdown
+- [Marketplace name](https://example.com/marketplace) - Short description of its ecosystem.
+```
