@@ -20,7 +20,7 @@ Use the categories to find relevant ecosystems, then compare the breadth of thei
 
 **Catalog size** is the provider's published count of apps, integrations, plugins, or other listed offerings. The unit is stated in every figure: an integration catalog is not equivalent to a paid app marketplace, and a larger catalog does not necessarily mean a larger addressable audience.
 
-**Source / checked** links directly to the first-party source and records when it was read. Figures below were checked on **16 November 2026**; this is the observation date, not necessarily the date the provider last updated its claim. Rounded figures retain the provider's published lower bound. Exact figures reflect counts explicitly displayed by a directory; a displayed count may differ from its full catalog. We do not estimate totals from pagination or count search results.
+**Scale data last checked: 16 November 2026.** Each catalog-size figure links directly to its first-party source. This is the observation date, not necessarily the date the provider last updated its claim. Rounded figures retain the provider's published lower bound. Exact figures reflect counts explicitly displayed by a directory; a displayed count may differ from its full catalog. We do not estimate totals from pagination or count search results.
 
 **Not found** means a reliable, marketplace-wide count was not found in the sources reviewed. It does not mean zero, and some directories could not be accessed. Catalog counts exclude customer and user totals, which measure platform reach rather than marketplace size.
 
@@ -28,130 +28,130 @@ Each provider appears once under its primary use case. This directory also inclu
 
 ## CRM, sales & marketing
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [ActiveCampaign](https://www.activecampaign.com/apps) | Email marketing and customer experience integrations | 1,000+ apps & integrations | [2026-11-16](https://www.activecampaign.com/apps) |
-| [Drip](https://www.drip.com/integrations) | Ecommerce marketing integrations | Not found | — |
-| [Eventbrite](https://www.eventbrite.com/apps/) | Event management and marketing integrations | Not found | — |
-| [Hootsuite](https://apps.hootsuite.com/) | Social media management apps and integrations | Not found | — |
-| [HubSpot](https://ecosystem.hubspot.com/marketplace/apps) | CRM, marketing, sales, and service integrations | Not found | — |
-| [Instapage](https://instapage.com/en/integrations) | Landing page and marketing integrations | 120+ integrations | [2026-11-16](https://instapage.com/en/integrations) |
-| [Mailchimp](https://mailchimp.com/integrations/) | Email marketing and ecommerce integrations | 300+ integrations | [2026-11-16](https://mailchimp.com/integrations/) |
-| [Marketo](https://exchange.adobe.com/apps/browse/ec?product=MRKTO) | Marketing automation partner integrations | Not found | — |
-| [Pipedrive](https://www.pipedrive.com/en/marketplace) | CRM and sales workflow apps | Not found | — |
-| [Salesforce AgentExchange (formerly AppExchange)](https://agentexchange.salesforce.com/) | CRM apps, components, and partner solutions | Not found | — |
-| [SurveyMonkey](https://www.surveymonkey.com/apps/) | Survey and feedback integrations | Not found | — |
-| [Unbounce](https://unbounce.com/product/integrations/) | Landing page and marketing integrations | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [ActiveCampaign](https://www.activecampaign.com/apps) | Email marketing and customer experience integrations | [1,000+ apps & integrations](https://www.activecampaign.com/apps) |
+| [Drip](https://www.drip.com/integrations) | Ecommerce marketing integrations | Not found |
+| [Eventbrite](https://www.eventbrite.com/apps/) | Event management and marketing integrations | Not found |
+| [Hootsuite](https://apps.hootsuite.com/) | Social media management apps and integrations | Not found |
+| [HubSpot](https://ecosystem.hubspot.com/marketplace/apps) | CRM, marketing, sales, and service integrations | Not found |
+| [Instapage](https://instapage.com/en/integrations) | Landing page and marketing integrations | [120+ integrations](https://instapage.com/en/integrations) |
+| [Mailchimp](https://mailchimp.com/integrations/) | Email marketing and ecommerce integrations | [300+ integrations](https://mailchimp.com/integrations/) |
+| [Marketo](https://exchange.adobe.com/apps/browse/ec?product=MRKTO) | Marketing automation partner integrations | Not found |
+| [Pipedrive](https://www.pipedrive.com/en/marketplace) | CRM and sales workflow apps | Not found |
+| [Salesforce AgentExchange (formerly AppExchange)](https://agentexchange.salesforce.com/) | CRM apps, components, and partner solutions | Not found |
+| [SurveyMonkey](https://www.surveymonkey.com/apps/) | Survey and feedback integrations | Not found |
+| [Unbounce](https://unbounce.com/product/integrations/) | Landing page and marketing integrations | Not found |
 
 ## Productivity & collaboration
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [Airtable](https://airtable.com/marketplace) | Extensions for Airtable bases and workflows | Not found | — |
-| [Asana](https://asana.com/apps) | Project and task management integrations | 200+ apps | [2026-11-16](https://asana.com/integrations) |
-| [Box](https://www.box.com/integrations) | Content management and collaboration integrations | 1,500+ apps & AI agents | [2026-11-16](https://www.box.com/integrations) |
-| [Coda](https://coda.io/product/packs) | Packs connecting Coda docs to external tools | Not found | — |
-| [Docusign](https://www.docusign.com/integrations) | Electronic signature and agreement workflow integrations | 1,000+ pre-built integrations | [2026-11-16](https://www.docusign.com/integrations) |
-| [Dropbox](https://www.dropbox.com/app-integrations) | File sharing and collaboration integrations | Not found | — |
-| [Google Workspace](https://workspace.google.com/marketplace) | Apps for Gmail, Drive, Docs, and other Workspace products | Not found | — |
-| [monday.com](https://monday.com/marketplace) | Apps for work management workflows | 850+ integrations & apps | [2026-11-16](https://monday.com/w/integrations) |
-| [Trello](https://trello.com/power-ups) | Power-Ups extending Trello boards | Not found | — |
-| [Zoho](https://marketplace.zoho.com/home) | Extensions for Zoho business applications | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [Airtable](https://airtable.com/marketplace) | Extensions for Airtable bases and workflows | Not found |
+| [Asana](https://asana.com/apps) | Project and task management integrations | [200+ apps](https://asana.com/integrations) |
+| [Box](https://www.box.com/integrations) | Content management and collaboration integrations | [1,500+ apps & AI agents](https://www.box.com/integrations) |
+| [Coda](https://coda.io/product/packs) | Packs connecting Coda docs to external tools | Not found |
+| [Docusign](https://www.docusign.com/integrations) | Electronic signature and agreement workflow integrations | [1,000+ pre-built integrations](https://www.docusign.com/integrations) |
+| [Dropbox](https://www.dropbox.com/app-integrations) | File sharing and collaboration integrations | Not found |
+| [Google Workspace](https://workspace.google.com/marketplace) | Apps for Gmail, Drive, Docs, and other Workspace products | Not found |
+| [monday.com](https://monday.com/marketplace) | Apps for work management workflows | [850+ integrations & apps](https://monday.com/w/integrations) |
+| [Trello](https://trello.com/power-ups) | Power-Ups extending Trello boards | Not found |
+| [Zoho](https://marketplace.zoho.com/home) | Extensions for Zoho business applications | Not found |
 
 ## Customer support & communications
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [Front](https://front.com/integrations) | Customer communication and support integrations | Not found | — |
-| [Help Scout](https://www.helpscout.com/help-desk-integration/) | Customer support and help desk integrations | 113 integrations | [2026-11-16](https://www.helpscout.com/help-desk-integration/) |
-| [Intercom](https://www.intercom.com/app-store) | Customer messaging and support apps | 450+ apps & integrations | [2026-11-16](https://www.intercom.com/integrations) |
-| [LiveAgent](https://www.liveagent.com/integrations/) | Help desk and customer support integrations | Not found | — |
-| [Microsoft Teams](https://appsource.microsoft.com/en-us/marketplace/apps?product=teams) | Apps for collaboration in Microsoft Teams | Not found | — |
-| [RingCentral](https://www.ringcentral.com/apps/) | Business communications apps and integrations | 600+ pre-built integrations | [2026-11-16](https://www.ringcentral.com/apps/) |
-| [Slack](https://slack.com/marketplace) | Workplace communication apps and integrations | 2,600+ apps | [2026-11-16](https://slack.com/integrations) |
-| [Talkdesk](https://www.talkdesk.com/contact-center-platform/appconnect/) | Contact center apps and integrations | Not found | — |
-| [Twilio](https://www.twilio.com/en-us/partners) | Partner solutions for customer communications | Not found | — |
-| [Zendesk](https://www.zendesk.com/marketplace/) | Customer service apps and themes | Not found | — |
-| [Zoom](https://marketplace.zoom.us/) | Apps and integrations for Zoom products | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [Front](https://front.com/integrations) | Customer communication and support integrations | Not found |
+| [Help Scout](https://www.helpscout.com/help-desk-integration/) | Customer support and help desk integrations | [113 integrations](https://www.helpscout.com/help-desk-integration/) |
+| [Intercom](https://www.intercom.com/app-store) | Customer messaging and support apps | [450+ apps & integrations](https://www.intercom.com/integrations) |
+| [LiveAgent](https://www.liveagent.com/integrations/) | Help desk and customer support integrations | Not found |
+| [Microsoft Teams](https://appsource.microsoft.com/en-us/marketplace/apps?product=teams) | Apps for collaboration in Microsoft Teams | Not found |
+| [RingCentral](https://www.ringcentral.com/apps/) | Business communications apps and integrations | [600+ pre-built integrations](https://www.ringcentral.com/apps/) |
+| [Slack](https://slack.com/marketplace) | Workplace communication apps and integrations | [2,600+ apps](https://slack.com/integrations) |
+| [Talkdesk](https://www.talkdesk.com/contact-center-platform/appconnect/) | Contact center apps and integrations | Not found |
+| [Twilio](https://www.twilio.com/en-us/partners) | Partner solutions for customer communications | Not found |
+| [Zendesk](https://www.zendesk.com/marketplace/) | Customer service apps and themes | Not found |
+| [Zoom](https://marketplace.zoom.us/) | Apps and integrations for Zoom products | Not found |
 
 ## Commerce & website builders
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [Adobe Commerce](https://commercemarketplace.adobe.com/) | Extensions for Adobe Commerce and Magento Open Source | Not found | — |
-| [BigCommerce](https://www.bigcommerce.com/apps/) | Ecommerce apps and store integrations | 1,200+ apps | [2026-11-16](https://www.bigcommerce.com/apps/) |
-| [Framer](https://www.framer.com/marketplace/) | Website templates, plugins, and components | Not found | — |
-| [Shopify](https://apps.shopify.com/) | Ecommerce apps for Shopify stores | 16,000+ apps | [2026-11-16](https://apps.shopify.com/) |
-| [Squarespace](https://www.squarespace.com/extensions/home) | Extensions for commerce and business operations | Not found | — |
-| [Volusion](https://www.volusion.com/marketplace/) | Ecommerce store apps and integrations | Not found | — |
-| [Webflow](https://webflow.com/apps) | Apps extending Webflow sites and workflows | 449 apps displayed | [2026-11-16](https://webflow.com/apps) |
-| [Weebly](https://www.weebly.com/app-center/) | Apps extending Weebly websites and stores | Not found | — |
-| [Wix](https://www.wix.com/app-market) | Apps for Wix websites and businesses | Not found | — |
-| [WooCommerce](https://woocommerce.com/products/) | Extensions for WooCommerce stores | Not found | — |
-| [WordPress](https://wordpress.org/plugins/) | Plugins for WordPress websites | 79,000+ free plugins | [2026-11-16](https://wordpress.org/plugins/) |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [Adobe Commerce](https://commercemarketplace.adobe.com/) | Extensions for Adobe Commerce and Magento Open Source | Not found |
+| [BigCommerce](https://www.bigcommerce.com/apps/) | Ecommerce apps and store integrations | [1,200+ apps](https://www.bigcommerce.com/apps/) |
+| [Framer](https://www.framer.com/marketplace/) | Website templates, plugins, and components | Not found |
+| [Shopify](https://apps.shopify.com/) | Ecommerce apps for Shopify stores | [16,000+ apps](https://apps.shopify.com/) |
+| [Squarespace](https://www.squarespace.com/extensions/home) | Extensions for commerce and business operations | Not found |
+| [Volusion](https://www.volusion.com/marketplace/) | Ecommerce store apps and integrations | Not found |
+| [Webflow](https://webflow.com/apps) | Apps extending Webflow sites and workflows | [449 apps displayed](https://webflow.com/apps) |
+| [Weebly](https://www.weebly.com/app-center/) | Apps extending Weebly websites and stores | Not found |
+| [Wix](https://www.wix.com/app-market) | Apps for Wix websites and businesses | Not found |
+| [WooCommerce](https://woocommerce.com/products/) | Extensions for WooCommerce stores | Not found |
+| [WordPress](https://wordpress.org/plugins/) | Plugins for WordPress websites | [79,000+ free plugins](https://wordpress.org/plugins/) |
 
 ## Finance, payments & accounting
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [FreshBooks](https://appstore.freshbooks.com/) | Accounting and invoicing integrations | Not found | — |
-| [QuickBooks](https://quickbooks.intuit.com/app/apps/home/) | Accounting, payments, and business management apps | Not found | — |
-| [Stripe](https://marketplace.stripe.com/) | Apps extending Stripe payments and business workflows | Not found | — |
-| [Xero](https://apps.xero.com/) | Accounting and small business apps | Not found | — |
-| [Zuora](https://connect.zuora.com/) | Subscription billing and revenue integrations (sign-in required) | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [FreshBooks](https://appstore.freshbooks.com/) | Accounting and invoicing integrations | Not found |
+| [QuickBooks](https://quickbooks.intuit.com/app/apps/home/) | Accounting, payments, and business management apps | Not found |
+| [Stripe](https://marketplace.stripe.com/) | Apps extending Stripe payments and business workflows | Not found |
+| [Xero](https://apps.xero.com/) | Accounting and small business apps | Not found |
+| [Zuora](https://connect.zuora.com/) | Subscription billing and revenue integrations (sign-in required) | Not found |
 
 ## HR & industry-specific software
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [athenahealth](https://athenaconnect.athenahealth.com/marketplace/home) | Healthcare applications integrated with athenahealth | Not found | — |
-| [Gusto](https://gusto.com/product/integrations) | Payroll, benefits, and HR integrations | Not found | — |
-| [Mindbody](https://marketplace.mindbodyonline.com/solutions?partner=0+1&integrated=0+1) | Fitness, wellness, and business management integrations | Not found | — |
-| [UKG](https://marketplace.ukg.com/en-US/home) | HR, payroll, and workforce management integrations | Not found | — |
-| [Workday](https://marketplace.workday.com/en-US/home) | Partner applications for finance and HR workflows | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [athenahealth](https://athenaconnect.athenahealth.com/marketplace/home) | Healthcare applications integrated with athenahealth | Not found |
+| [Gusto](https://gusto.com/product/integrations) | Payroll, benefits, and HR integrations | Not found |
+| [Mindbody](https://marketplace.mindbodyonline.com/solutions?partner=0+1&integrated=0+1) | Fitness, wellness, and business management integrations | Not found |
+| [UKG](https://marketplace.ukg.com/en-US/home) | HR, payroll, and workforce management integrations | Not found |
+| [Workday](https://marketplace.workday.com/en-US/home) | Partner applications for finance and HR workflows | Not found |
 
 ## Cloud, developer tools & security
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [Atlassian](https://marketplace.atlassian.com/) | Apps for Jira, Confluence, and other Atlassian products | 4,000+ apps & integrations | [2026-11-16](https://www.atlassian.com/software/marketplace) |
-| [Auth0](https://marketplace.auth0.com/) | Identity and authentication integrations | Not found | — |
-| [AWS](https://aws.amazon.com/marketplace) | Cloud software, data products, and services | Not found | — |
-| [ConnectWise](https://marketplace.connectwise.com/) | Apps and integrations for managed service providers | Not found | — |
-| [DigitalOcean](https://marketplace.digitalocean.com/) | Deployable applications and developer tools | Not found | — |
-| [GitHub](https://github.com/marketplace) | Developer tools, apps, and GitHub Actions | Not found | — |
-| [Google Cloud](https://cloud.google.com/marketplace) | Cloud software and deployment solutions | Not found | — |
-| [Heroku](https://elements.heroku.com/) | Add-ons, buildpacks, and deployment buttons for Heroku | Not found | — |
-| [Microsoft AppSource](https://appsource.microsoft.com/en-us/home) | Business applications for Microsoft products | Not found | — |
-| [Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/) | Cloud software and infrastructure solutions | Not found | — |
-| [New Relic](https://newrelic.com/instant-observability) | Observability integrations and monitoring tools | Not found | — |
-| [Okta](https://www.okta.com/integrations/) | Identity, single sign-on, and provisioning integrations | 8,000+ pre-built integrations | [2026-11-16](https://www.okta.com/integrations/) |
-| [RapidAPI](https://rapidapi.com/hub) | APIs for developers to discover and integrate | Not found | — |
-| [ServiceNow](https://store.servicenow.com/sn_appstore_store.do#!/store/home) | Enterprise workflow applications and integrations | Not found | — |
-| [Vercel](https://vercel.com/marketplace) | Infrastructure and service integrations for Vercel projects | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [Atlassian](https://marketplace.atlassian.com/) | Apps for Jira, Confluence, and other Atlassian products | [4,000+ apps & integrations](https://www.atlassian.com/software/marketplace) |
+| [Auth0](https://marketplace.auth0.com/) | Identity and authentication integrations | Not found |
+| [AWS](https://aws.amazon.com/marketplace) | Cloud software, data products, and services | Not found |
+| [ConnectWise](https://marketplace.connectwise.com/) | Apps and integrations for managed service providers | Not found |
+| [DigitalOcean](https://marketplace.digitalocean.com/) | Deployable applications and developer tools | Not found |
+| [GitHub](https://github.com/marketplace) | Developer tools, apps, and GitHub Actions | Not found |
+| [Google Cloud](https://cloud.google.com/marketplace) | Cloud software and deployment solutions | Not found |
+| [Heroku](https://elements.heroku.com/) | Add-ons, buildpacks, and deployment buttons for Heroku | Not found |
+| [Microsoft AppSource](https://appsource.microsoft.com/en-us/home) | Business applications for Microsoft products | Not found |
+| [Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/) | Cloud software and infrastructure solutions | Not found |
+| [New Relic](https://newrelic.com/instant-observability) | Observability integrations and monitoring tools | Not found |
+| [Okta](https://www.okta.com/integrations/) | Identity, single sign-on, and provisioning integrations | [8,000+ pre-built integrations](https://www.okta.com/integrations/) |
+| [RapidAPI](https://rapidapi.com/hub) | APIs for developers to discover and integrate | Not found |
+| [ServiceNow](https://store.servicenow.com/sn_appstore_store.do#!/store/home) | Enterprise workflow applications and integrations | Not found |
+| [Vercel](https://vercel.com/marketplace) | Infrastructure and service integrations for Vercel projects | Not found |
 
 ## Data, analytics & automation
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [Amplitude](https://amplitude.com/integrations) | Product analytics integrations and data connections | Not found | — |
-| [Bubble](https://bubble.io/plugins) | Plugins for building Bubble applications | Not found | — |
-| [Cloudera](https://www.cloudera.com/partners/partners-listing.html) | Partner solutions for data and analytics workloads | Not found | — |
-| [Jotform](https://www.jotform.com/integrations/) | Forms, payments, and workflow integrations | 200+ integrations | [2026-11-16](https://www.jotform.com/integrations/) |
-| [Make (formerly Integromat)](https://www.make.com/integrations) | Workflow automation apps and connectors | 3,500+ app integrations | [2026-11-16](https://www.make.com/integrations) |
-| [Mixpanel](https://mixpanel.com/partners/integrations) | Product analytics data integrations | Not found | — |
-| [mParticle](https://docs.mparticle.com/integrations/) | Customer data platform integrations | Not found | — |
-| [Optimizely](https://www.optimizely.com/connectors) | Digital experience and experimentation integrations | Not found | — |
-| [Segment](https://www.twilio.com/en-us/catalog) | Customer data sources and destinations | Not found | — |
-| [Typeform](https://www.typeform.com/connect) | Form, survey, and workflow integrations | Not found | — |
-| [Zapier](https://zapier.com/apps) | Workflow automation apps and integrations | 9,000+ apps | [2026-11-16](https://zapier.com/apps) |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [Amplitude](https://amplitude.com/integrations) | Product analytics integrations and data connections | Not found |
+| [Bubble](https://bubble.io/plugins) | Plugins for building Bubble applications | Not found |
+| [Cloudera](https://www.cloudera.com/partners/partners-listing.html) | Partner solutions for data and analytics workloads | Not found |
+| [Jotform](https://www.jotform.com/integrations/) | Forms, payments, and workflow integrations | [200+ integrations](https://www.jotform.com/integrations/) |
+| [Make (formerly Integromat)](https://www.make.com/integrations) | Workflow automation apps and connectors | [3,500+ app integrations](https://www.make.com/integrations) |
+| [Mixpanel](https://mixpanel.com/partners/integrations) | Product analytics data integrations | Not found |
+| [mParticle](https://docs.mparticle.com/integrations/) | Customer data platform integrations | Not found |
+| [Optimizely](https://www.optimizely.com/connectors) | Digital experience and experimentation integrations | Not found |
+| [Segment](https://www.twilio.com/en-us/catalog) | Customer data sources and destinations | Not found |
+| [Typeform](https://www.typeform.com/connect) | Form, survey, and workflow integrations | Not found |
+| [Zapier](https://zapier.com/apps) | Workflow automation apps and integrations | [9,000+ apps](https://zapier.com/apps) |
 
 ## Design & creative tools
 
-| Marketplace | Focus | Catalog size | Source / checked |
-| --- | --- | --- | --- |
-| [Adobe](https://exchange.adobe.com/) | Extensions and integrations for Adobe products | Not found | — |
-| [Figma](https://www.figma.com/community/plugins) | Community plugins for design workflows | Not found | — |
+| Marketplace | Focus | Catalog size |
+| --- | --- | --- |
+| [Adobe](https://exchange.adobe.com/) | Extensions and integrations for Adobe products | Not found |
+| [Figma](https://www.figma.com/community/plugins) | Community plugins for design workflows | Not found |
 
 ## Renamed and legacy entries
 
@@ -171,12 +171,12 @@ Open a pull request to add a marketplace, correct a link, supply a sourced count
 - Choose one primary category and keep entries alphabetized within it.
 - Use the provider's current name and link to its official directory.
 - Keep the focus description short and factual.
-- For catalog size, state both the number and unit, link directly to a first-party source, and record the date checked. Preserve qualifiers such as "over" or "+".
-- Use **Not found** with **—** in the source column when no reliable count is available. Do not substitute company customer counts, estimates, or a listed partner's integration count.
+- For catalog size, state both the number and unit, link directly to a first-party source, and update the shared checked date above the tables when refreshing the figures. Preserve qualifiers such as "over" or "+".
+- Use **Not found** when no reliable count is available. Do not substitute company customer counts, estimates, or a listed partner's integration count.
 - Cite an official source when proposing a rename or retirement.
 
 Use this format (the number below is illustrative):
 
 ```markdown
-| [Marketplace name](https://example.com/marketplace) | Short description | 100+ apps | [YYYY-MM-DD](https://example.com/source) |
+| [Marketplace name](https://example.com/marketplace) | Short description | [100+ apps](https://example.com/source) |
 ```
